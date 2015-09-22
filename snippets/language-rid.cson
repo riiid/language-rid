@@ -2,9 +2,6 @@
 # https://github.com/atom/language-gfm/blob/master/snippets/gfm.cson
 
 '.text.rid':
-  'Method documentation':
-    'prefix': 'doc'
-    'body': '@@ ${1:method} - ${2:description}'
   'part5 template':
     'prefix': 'part5'
     'body': '<quiz type=”part5”>\n  <text> <blank/> </text>\n  <list>\n    <choice correct=”true”>(A)</choice>\n    <choice>(B)</choice>\n    <choice>(C)</choice>\n    <choice>(D)</choice>\n  </list>\n  <level>1</level>\n  <pattern> </pattern>\n  <interpretation> </interpretation>\n  <explanation> </explanation>\n  <vocalist>\n    <voca><word> </word><meaning> </meaning></voca>\n  </vocalist>\n</quiz>\n'
