@@ -1,4 +1,4 @@
-## 0.3.1 - Update snippets
+## 0.3.2 - Update snippets
 - `<riiid>` autocompletion
 
 ## 0.3.0 - First Release
