@@ -1,3 +1,1 @@
-# PackageName language package
-
-A short description of your language package.
+# RID language support in Atom

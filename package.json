@@ -1,12 +1,14 @@
 {
   "name": "language-rid",
-  "version": "0.0.0",
-  "description": "A short description of your language package",
+  "version": "0.1.0",
+  "description": "RID language support in ATOM",
   "keywords": [
     "language",
+    "riiid",
+    "rid",
     "grammar"
   ],
-  "repository": "https://github.com/atom/language-rid",
+  "repository": "https://github.com/riiid/language-rid",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
