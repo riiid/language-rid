@@ -4,6 +4,7 @@
 'scopeName': 'text.rid'
 'name': 'rid'
 'fileTypes': [
+  'riiid'
   'rid'
 ]
 'patterns': [
