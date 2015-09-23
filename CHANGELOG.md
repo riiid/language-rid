@@ -1,3 +1,6 @@
+## 0.3.3 - Update snippets
+- update snippets
+
 ## 0.3.2 - Update snippets
 - `<riiid>` autocompletion
 
